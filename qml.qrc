@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/URLField.qml</file>
+        <file>qml/TimeoutField.qml</file>
+        <file>qml/SubmitButton.qml</file>
+        <file>qml/Note.qml</file>
+    </qresource>
+</RCC>
